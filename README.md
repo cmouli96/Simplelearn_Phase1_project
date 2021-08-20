@@ -9,5 +9,3 @@
       iii.	Update Data (id)
       iv.	Delete Record (id)
       v.	Exit
-3.	Output Screenshots 
-4.	Github Link
